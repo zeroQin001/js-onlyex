@@ -1,0 +1,24 @@
+{
+	"name": {
+		"zh-cn": "示例",
+		"en": "Demo"
+	},
+	"description": {
+		"zh-cn": "",
+		"en": ""
+	},
+	"author": "dfrobot",
+	"email": "",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "xxx",
+	"version": "0.0.1",
+	"platform": ["win", "mac", "web"],
+	"asset": {
+		"javascript": {
+			"dir": "javascript/",
+			"board": [],
+			"main": "main.js"
+		}
+	}
+}
